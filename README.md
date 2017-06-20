@@ -1,34 +1,13 @@
-# g6 -- GUI for node.js
+# c6 -- Chart library for node.js
+
+c6 is a chart library for node.js , just like matplotlib in python.
+
+You may use c6 in Browser or in Electron.js (inside Renderer process).
 
 ## Install
 
-1. Make sure you have install Electron.js in global mode.
-2. Git clone this project and install it.
+If you would like to use in Electron.js, you should install [c6e](https://github.com/ccckmit/c6e).
 
-```
-$ npm intall electron -g
-$ git clone https://github.com/ccckmit/g6.git
-$ cd g6
-$ npm install
-```
+## Demo
 
-## Run
-
-Example 1 : 
-
-```
-$ electron . demo/chartDemo.js
-```
-
-![](img/chartDemo.png)
-
-
-Example 2 :
-
-```
-$ electron . demo/imageDemo.js > imageDemo.out
-```
-
-![](img/imageDemo.png)
-
-
+Visiting [c6demo](https://github.com/ccckmit/c6demo) for the demo.

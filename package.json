@@ -1,0 +1,16 @@
+{
+  "name": "c6",
+  "version": "0.3.0",
+  "main": "c6.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ccckmit/j6.git"
+  },
+  "author": {
+    "name": "Chung-Chen Chen",
+    "email": "ccckmit@gmail.com"
+  },
+  "license": "MIT"
+}
